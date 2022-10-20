@@ -226,7 +226,7 @@ section:nth-child(even) {
 
 .about .row .content p {
     color: var(--light-color);
-    padding: 1rem 0;
+    padding: 1.5rem 0;
     font-size: 1.5rem;
     line-height: 1.8;
 }
